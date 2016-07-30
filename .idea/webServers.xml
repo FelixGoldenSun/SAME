@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="592ee1d5-d64d-4483-942d-09c1ff227fa6" name="same.benawalls.com" url="http://www.same.benawalls.com//">
+        <fileTransfer host="same.benawalls.com" port="21" rootFolder="/same.benawalls.com" username="benwal31">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
